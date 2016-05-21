@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Andy\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_dd5280dfc0ef418d457bd3709ba261fa850a1d69.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andy\Desktop\FirebaseNew\app\libs\firebase-client-android-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="b54cf0400e2248d6c133c7b0a77dea1be09978cc">
+        <dex dex="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.5.2_83e83b1b5a7e2f60766281cc73ed2b8ba0c02a80.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_a6b5d24ba8462c6f29c2046ce727fd48d8ecb61b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_0535b4ead4316217c5bc58e57912190308d180c0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_5335261d71775e8d677620db3acd568352461d97.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_fad61253fcd7079be0f7f03c5372f75cfec10e81.jar" />
+    </item>
+    <item
+        jar="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\Andy\Desktop\FirebaseNew\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_64df1b4914f3bf95d0a0463b059e8c0165d22672.jar" />
+    </item>
+
+</items>
